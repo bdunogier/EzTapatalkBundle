@@ -1,0 +1,20 @@
+{
+    "name": "bdunogier/ez-tapatalk-bundle",
+    "description": "eZ Publish 5 implementation of the Tapatalk API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bertrand Dunogier",
+            "email": "bertrand.dunogier@gmail"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ezsystems/ezpublish-api": "@dev",
+        "bdunogier/tapatalk-bundle: "@dev"
+    },
+    "target-dir": "BD/Bundle/EzTapatalkBundle",
+    "autoload": {
+        "psr-4": { "BD\\Bundle\\EzTapatalkBundle": "" }
+    }
+}
