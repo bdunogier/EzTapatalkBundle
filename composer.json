@@ -5,15 +5,14 @@
     "authors": [
         {
             "name": "Bertrand Dunogier",
-            "email": "bertrand.dunogier@gmail"
+            "email": "bertrand.dunogier@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
         "ezsystems/ezpublish-api": "@dev",
-        "bdunogier/tapatalk-bundle: "@dev"
+        "bdunogier/tapatalk-bundle": "@dev"
     },
-    "target-dir": "BD/Bundle/EzTapatalkBundle",
     "autoload": {
         "psr-4": { "BD\\Bundle\\EzTapatalkBundle\\": "" }
     }
