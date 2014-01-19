@@ -15,6 +15,6 @@
     },
     "target-dir": "BD/Bundle/EzTapatalkBundle",
     "autoload": {
-        "psr-4": { "BD\\Bundle\\EzTapatalkBundle": "" }
+        "psr-4": { "BD\\Bundle\\EzTapatalkBundle\\": "" }
     }
 }
